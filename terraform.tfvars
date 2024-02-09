@@ -1,0 +1,6 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone = "us-east-1a"
+name_prefix = "app"
+instance_type = "t2.micro"
+keypair = "Devops_Project_Key"
